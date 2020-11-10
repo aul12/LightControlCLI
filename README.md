@@ -1,5 +1,5 @@
 # LightControlCLI
-Controlling all the lights in my room from the command line.
+Controlling all the [lights in my room](https://github.com/aul12/LightControlFirmware) from the command line.
 
 ## How to use
 ### Preqrequisites
